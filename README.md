@@ -22,7 +22,7 @@ Before we get started Remember to take  :coffee:   :pizza:  and :dancer:   When 
 
 - Version API using URL versioning starting with the letter “v”. A simple ordinal
   number would be appropriate and avoid dot notation such as 2.0. So, that why you have to add api/v2
-  for each route of endpoints you want to access for example: https://SalonEverywhere-backend.herokuapp.com/api/path  
+  for each route of endpoints you want to access for example: https://saloneverywhere-backend.herokuapp.com/api/path  
 
 
 |NO  | VERBS  | ENDPOINTS                            | STATUS   | ACCESS                   | DESCRIPTION                             |
@@ -68,7 +68,7 @@ npm run server
 
 #### Deployment
 
-- heroku : [SalonEverywhere](https://SalonEverywhere-backend.herokuapp.com/).
+- heroku : [SalonEverywhere](https://saloneverywhere-backend.herokuapp.com/).
 #### Dedicated: [SalonEverywhere-Teachnical-Test](https://docs.google.com/document/d/1LcnZ0zrGXertDPFWq8Y3VnUk2woDgDqQnucpv6_fydA/edit).
 
 #### Develoer: [Key Joshua](https://www.instagram.com/key_joshua/).
