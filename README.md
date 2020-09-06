@@ -11,8 +11,6 @@ We’re a marketplace and booking platform that safely and easily connects clien
 
 Before we get started Remember to take  :coffee:   :pizza:  and :dancer:   When You Are coding, come on Dude it all about relax
 
-- [SalonEverywhere UI Templates Application for Test](https://SalonEverywhere-backend.herokuapp.com/).
-
 ## Backend tools
 
  - All Neccessary libraries.
