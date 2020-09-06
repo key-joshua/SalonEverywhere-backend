@@ -74,8 +74,6 @@ npm run server
 #### Develoer: [Key Joshua](https://www.instagram.com/key_joshua/).
 
 #### Completed Tasks ScreenShots
-![|Saloneverywhere Home Page](SalonHomePage.PNG)
+![|Saloneverywhere Save User API](salonHomeAPI.PNG)
 
-![|Saloneverywhere Test User Page](SalonTestPage.PNG)
-
-![|Saloneverywhere Response Page](SalonResponsePage.PNG)
+![|Saloneverywhere Test User API](salonTestAPI.PNG)
